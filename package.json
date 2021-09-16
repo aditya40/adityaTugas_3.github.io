@@ -291,7 +291,7 @@
     "saxes": "^3.1.11",
     "semver": "^6.3.0",
     "set-blocking": "^2.0.0",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.1",
     "shebang-command": "^2.0.0",
     "shebang-regex": "^3.0.0",
     "shellwords": "^0.1.1",
